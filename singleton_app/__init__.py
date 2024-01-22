@@ -1,0 +1,1 @@
+default_app_config = 'singleton_app.apps.SingletonAppConfig'
